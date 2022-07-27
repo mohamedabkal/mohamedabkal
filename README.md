@@ -5,9 +5,9 @@
     <a href="mailto:mohamed.abqal@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E4415F?style=flat&logo=gmail&logoColor=white"/></a>
   </p>
   
-  <!***>
+  <!***
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
-  <***!>
+  ***!>
 
 I'm a software developer who is passionate about creating delightful user experiences. Some technologies I enjoy working with include Javascript, React Native, and Firebase.
 
