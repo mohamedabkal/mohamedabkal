@@ -13,6 +13,6 @@ I'm a software developer who is passionate about creating delightful user experi
 
 - 🔭 I'm a full-time freelancing software developer
 - 🔍 Most recent project I've worked on: 
-  - [Local Masjid App - (IOS version)](https://apple.co/2F7v51K)
-  - Filter App ([Android version](https://play.google.com/store/apps/details?id=com.joinfilter.customer)
+  - Local Masjid App - [IOS version](https://apple.co/2F7v51K)
+  - Filter App - [Android version](https://play.google.com/store/apps/details?id=com.joinfilter.customer)
 - 💬 Ask me about **React Native and Frontend**
