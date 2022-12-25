@@ -13,7 +13,7 @@ I'm a React Native developer who is passionate about building mobile apps with d
 
 - 🔭 I'm a full-time freelancing software developer
 - 🔍 Most recent projects I've worked on: 
-    - Iman App: https://play.google.com/store/apps/details?id=com.zeno.iman
+    - Iman App: [Android version](https://play.google.com/store/apps/details?id=com.zeno.iman)
     - Filter App - [IOS version](https://apple.co/3UFoGhx)
     - Local Masjid App - [IOS version](https://apple.co/2F7v51K)
 - 💬 Ask me about **React Native and Frontend**
