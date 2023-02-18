@@ -11,9 +11,10 @@
 
 I'm a React Native developer who is passionate about building mobile apps with delightful user experiences. Some technologies and tools I enjoy working with include React Native, Javascript, Typescript and Firebase.
 
-- 🔭 I'm a full-time freelancing software developer
+- 🔭 I'm a full-time freelancing mobile developer
 - 🔍 Most recent projects I've worked on: 
     - Iman App: [Android version](https://play.google.com/store/apps/details?id=com.zeno.iman)
     - Filter App - [IOS version](https://apple.co/3UFoGhx)
     - Local Masjid App - [IOS version](https://apple.co/2F7v51K)
 - 💬 Ask me about **React Native and Frontend**
+- 💻 Checkout my portfolio [here](https://abkal.vercel.app)
